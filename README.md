@@ -11,7 +11,8 @@ Put eclipse_BarberShop in your resource directory
 Setting config `resources\eclipse_BarberShop\config.json`
 
 	Change language, add new shops and etc.
-  ![image](https://cdn.discordapp.com/attachments/759479979435098152/943156160901566524/unknown.png)
+  ![image](https://user-images.githubusercontent.com/36680471/154094012-cb614f76-421b-48ba-b47a-71dcd043d812.png)
+
   
 ## Installation:
 
